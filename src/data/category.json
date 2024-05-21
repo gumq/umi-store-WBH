@@ -1,0 +1,743 @@
+[
+  {
+    "id": 1,
+    "icon": "",
+    "href": "#",
+    "translations": {
+      "vi": {
+        "title": "Điện tử"
+      },
+      "en": {
+        "title": "Electronic"
+      }
+    },
+    "childmenu": [
+      {
+        "id": 1,
+        "translations": {
+          "vi": {
+            "title": "Điện thoại"
+          },
+          "en": {
+            "title": "Smartphones and phones"
+          }
+        },
+        "childmenu": [
+          {
+            "id": 1,
+            "translations": {
+              "vi": {
+                "title": "Phụ kiện "
+              },
+              "en": {
+                "title": "Accessories "
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "icon": "",
+    "href": "#",
+    "translations": {
+      "vi": {
+        "title": "Thiết bị gia dụng"
+      },
+      "en": {
+        "title": "Household appliances"
+      }
+    },
+    "childmenu": [
+      {
+        "id": 1,
+        "translations": {
+          "vi": {
+            "title": "Điện thoại"
+          },
+          "en": {
+            "title": "Smartphones"
+          }
+        },
+        "childmenu": [
+          {
+            "id": 1,
+            "translations": {
+              "vi": {
+                "title": "Phụ kiện và phụ kiện"
+              },
+              "en": {
+                "title": "Accessories and accessories"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "icon": "",
+    "href": "#",
+    "translations": {
+      "vi": {
+        "title": "Quần áo"
+      },
+      "en": {
+        "title": "Clothes"
+      }
+    },
+    "childmenu": [
+      {
+        "id": 1,
+        "translations": {
+          "vi": {
+            "title": "Điện thoại"
+          },
+          "en": {
+            "title": "Smartphones"
+          }
+        },
+        "childmenu": [
+          {
+            "id": 1,
+            "translations": {
+              "vi": {
+                "title": "Phụ kiện"
+              },
+              "en": {
+                "title": "Accessories"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "icon": "",
+    "href": "#",
+    "translations": {
+      "vi": {
+        "title": "Giày"
+      },
+      "en": {
+        "title": "Shoe"
+      }
+    },
+    "childmenu": [
+      {
+        "id": 1,
+        "translations": {
+          "vi": {
+            "title": "Điện thoại"
+          },
+          "en": {
+            "title": "Smartphones"
+          }
+        },
+        "childmenu": [
+          {
+            "id": 1,
+            "translations": {
+              "vi": {
+                "title": "Phụ kiện"
+              },
+              "en": {
+                "title": "Phụ kiện"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "icon": "",
+    "href": "#",
+    "translations": {
+      "vi": {
+        "title": "Phụ kiện"
+      },
+      "en": {
+        "title": "Phụ kiện"
+      }
+    },
+    "childmenu": [
+      {
+        "id": 1,
+        "translations": {
+          "vi": {
+            "title": "Điện thoại"
+          },
+          "en": {
+            "title": "Điện thoại"
+          }
+        },
+        "childmenu": [
+          {
+            "id": 1,
+            "translations": {
+              "vi": {
+                "title": "Phụ kiện"
+              },
+              "en": {
+                "title": "Phụ kiện"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "icon": "",
+    "href": "#",
+    "translations": {
+      "vi": {
+        "title": "Làm đẹp và chăm sóc"
+      },
+      "en": {
+        "title": "Làm đẹp và chăm sóc"
+      }
+    },
+    "childmenu": [
+      {
+        "id": 1,
+        "translations": {
+          "vi": {
+            "title": "Điện thoại"
+          },
+          "en": {
+            "title": "Điện thoại"
+          }
+        },
+        "childmenu": [
+          {
+            "id": 1,
+            "translations": {
+              "vi": {
+                "title": "Phụ kiện"
+              },
+              "en": {
+                "title": "Phụ kiện"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "icon": "",
+    "href": "#",
+    "translations": {
+      "vi": {
+        "title": "Sức khỏe"
+      },
+      "en": {
+        "title": "Sức khỏe"
+      }
+    },
+    "childmenu": [
+      {
+        "id": 1,
+        "translations": {
+          "vi": {
+            "title": "Điện thoại"
+          },
+          "en": {
+            "title": "Điện thoại"
+          }
+        },
+        "childmenu": [
+          {
+            "id": 1,
+            "translations": {
+              "vi": {
+                "title": "Phụ kiện"
+              },
+              "en": {
+                "title": "Phụ kiện"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "icon": "",
+    "href": "#",
+    "translations": {
+      "vi": {
+        "title": "Hàng gia dụng"
+      },
+      "en": {
+        "title": "Hàng gia dụng"
+      }
+    },
+    "childmenu": [
+      {
+        "id": 1,
+        "translations": {
+          "vi": {
+            "title": "Điện thoại"
+          },
+          "en": {
+            "title": "Điện thoại"
+          }
+        },
+        "childmenu": [
+          {
+            "id": 1,
+            "translations": {
+              "vi": {
+                "title": "Phụ kiện"
+              },
+              "en": {
+                "title": "Phụ kiện"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "icon": "",
+    "href": "#",
+    "translations": {
+      "vi": {
+        "title": "Xây dựng và sửa chữa"
+      },
+      "en": {
+        "title": "Xây dựng và sửa chữa"
+      }
+    },
+    "childmenu": [
+      {
+        "id": 1,
+        "translations": {
+          "vi": {
+            "title": "Điện thoại"
+          },
+          "en": {
+            "title": "Điện thoại"
+          }
+        },
+        "childmenu": [
+          {
+            "id": 1,
+            "translations": {
+              "vi": {
+                "title": "Phụ kiện"
+              },
+              "en": {
+                "title": "Phụ kiện"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "icon": "",
+    "href": "#",
+    "translations": {
+      "vi": {
+        "title": "Điện tử"
+      },
+      "en": {
+        "title": "Điện tử"
+      }
+    },
+    "childmenu": [
+      {
+        "id": 1,
+        "translations": {
+          "vi": {
+            "title": "Điện thoại"
+          },
+          "en": {
+            "title": "Điện thoại"
+          }
+        },
+        "childmenu": [
+          {
+            "id": 1,
+            "translations": {
+              "vi": {
+                "title": "Phụ kiện"
+              },
+              "en": {
+                "title": "Phụ kiện"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "icon": "",
+    "href": "#",
+    "translations": {
+      "vi": {
+        "title": "Điện tử"
+      },
+      "en": {
+        "title": "Điện tử"
+      }
+    },
+    "childmenu": [
+      {
+        "id": 1,
+        "translations": {
+          "vi": {
+            "title": "Điện thoại"
+          },
+          "en": {
+            "title": "Điện thoại"
+          }
+        },
+        "childmenu": [
+          {
+            "id": 1,
+            "translations": {
+              "vi": {
+                "title": "Phụ kiện"
+              },
+              "en": {
+                "title": "Phụ kiện"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "icon": "",
+    "href": "#",
+    "translations": {
+      "vi": {
+        "title": "Điện tử"
+      },
+      "en": {
+        "title": "Điện tử"
+      }
+    },
+    "childmenu": [
+      {
+        "id": 1,
+        "translations": {
+          "vi": {
+            "title": "Điện thoại"
+          },
+          "en": {
+            "title": "Điện thoại"
+          }
+        },
+        "childmenu": [
+          {
+            "id": 1,
+            "translations": {
+              "vi": {
+                "title": "Phụ kiện"
+              },
+              "en": {
+                "title": "Phụ kiện"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "icon": "",
+    "href": "#",
+    "translations": {
+      "vi": {
+        "title": "Điện tử"
+      },
+      "en": {
+        "title": "Điện tử"
+      }
+    },
+    "childmenu": [
+      {
+        "id": 1,
+        "translations": {
+          "vi": {
+            "title": "Điện thoại"
+          },
+          "en": {
+            "title": "Điện thoại"
+          }
+        },
+        "childmenu": [
+          {
+            "id": 1,
+            "translations": {
+              "vi": {
+                "title": "Phụ kiện"
+              },
+              "en": {
+                "title": "Phụ kiện"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "icon": "",
+    "href": "#",
+    "translations": {
+      "vi": {
+        "title": "Điện tử"
+      },
+      "en": {
+        "title": "Điện tử"
+      }
+    },
+    "childmenu": [
+      {
+        "id": 1,
+        "translations": {
+          "vi": {
+            "title": "Điện thoại"
+          },
+          "en": {
+            "title": "Điện thoại"
+          }
+        },
+        "childmenu": [
+          {
+            "id": 1,
+            "translations": {
+              "vi": {
+                "title": "Phụ kiện"
+              },
+              "en": {
+                "title": "Phụ kiện"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "icon": "",
+    "href": "#",
+    "translations": {
+      "vi": {
+        "title": "Điện tử"
+      },
+      "en": {
+        "title": "Điện tử"
+      }
+    },
+    "childmenu": [
+      {
+        "id": 1,
+        "translations": {
+          "vi": {
+            "title": "Điện thoại"
+          },
+          "en": {
+            "title": "Điện thoại"
+          }
+        },
+        "childmenu": [
+          {
+            "id": 1,
+            "translations": {
+              "vi": {
+                "title": "Phụ kiện"
+              },
+              "en": {
+                "title": "Phụ kiện"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "icon": "",
+    "href": "#",
+    "translations": {
+      "vi": {
+        "title": "Điện tử"
+      },
+      "en": {
+        "title": "Điện tử"
+      }
+    },
+    "childmenu": [
+      {
+        "id": 1,
+        "translations": {
+          "vi": {
+            "title": "Điện thoại"
+          },
+          "en": {
+            "title": "Điện thoại"
+          }
+        },
+        "childmenu": [
+          {
+            "id": 1,
+            "translations": {
+              "vi": {
+                "title": "Phụ kiện"
+              },
+              "en": {
+                "title": "Phụ kiện"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "icon": "",
+    "href": "#",
+    "translations": {
+      "vi": {
+        "title": "Điện tử"
+      },
+      "en": {
+        "title": "Điện tử"
+      }
+    },
+    "childmenu": [
+      {
+        "id": 1,
+        "translations": {
+          "vi": {
+            "title": "Điện thoại"
+          },
+          "en": {
+            "title": "Điện thoại"
+          }
+        },
+        "childmenu": [
+          {
+            "id": 1,
+            "translations": {
+              "vi": {
+                "title": "Phụ kiện"
+              },
+              "en": {
+                "title": "Phụ kiện"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "icon": "",
+    "href": "#",
+    "translations": {
+      "vi": {
+        "title": "Điện tử"
+      },
+      "en": {
+        "title": "Điện tử"
+      }
+    },
+    "childmenu": [
+      {
+        "id": 1,
+        "translations": {
+          "vi": {
+            "title": "Điện thoại"
+          },
+          "en": {
+            "title": "Điện thoại"
+          }
+        },
+        "childmenu": [
+          {
+            "id": 1,
+            "translations": {
+              "vi": {
+                "title": "Phụ kiện"
+              },
+              "en": {
+                "title": "Phụ kiện"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "icon": "",
+    "href": "#",
+    "translations": {
+      "vi": {
+        "title": "Điện tử"
+      },
+      "en": {
+        "title": "Điện tử"
+      }
+    },
+    "childmenu": [
+      {
+        "id": 1,
+        "translations": {
+          "vi": {
+            "title": "Điện thoại"
+          },
+          "en": {
+            "title": "Điện thoại"
+          }
+        },
+        "childmenu": [
+          {
+            "id": 1,
+            "translations": {
+              "vi": {
+                "title": "Phụ kiện"
+              },
+              "en": {
+                "title": "Phụ kiện"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
